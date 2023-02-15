@@ -12,6 +12,5 @@
 *.userprefs
 *.meta
 *.tmp
- 
-# need include the meta of file
-!*.*.meta
+*.mp4
+*.DS_Store
